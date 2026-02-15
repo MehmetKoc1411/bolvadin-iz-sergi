@@ -116,7 +116,7 @@ const Home = ({ isPlaying, toggleMusic, currentTrackTitle }) => {
                 <button onClick={() => setIsInfoOpen(false)} className="absolute top-8 right-8 text-4xl text-gray-400">✕</button>
                 <h2 className="text-5xl font-bold text-gray-800 mb-10 tracking-tight">Sergi Hakkında</h2>
                 <div className="space-y-10 text-2xl text-gray-700 leading-relaxed text-left font-serif">
-                  <p><strong>Hatice Koç Kimdir?</strong><br/>Bolvadin Hasan Gemici Ortaokulu ve Bolvadin Bilim ve Sanat Merkezi’nde (BİLSEM) resim öğretmeni olan sanatçı, sulu boyanın naif ve şeffaf diliyle yaşadığı toprakların hikâyesini anlatır. Sanatı, Bolvadin’in tarihi derinliğini geleceğe taşıyan sessiz bir köprü olarak tanımlar.</p>
+                  <p><strong>Hatice Koç Kimdir?</strong><br/>Bolvadin Hasan Gemici Ortaokulu'nda Bolvadin Bilim ve Sanat Merkezi'nde (BİLSEM) resim öğretmeni olarak görev yapan sanatçı, sulu boyanın naif dilini Bolvadin'un tarihi mirasıyla buluşturuyor.</p>
                   <p><strong>Neden İZ?</strong><br/>"İZ", bir kentin hafızası ve fırçanın kâğıtla kurduğu ilk temasın adıdır. Kırkgöz Köprüsü’nden Eber Sarısı’na, bu topraklara vurulan sanatsal bir mühür; kadim bir kentin ruhuna düşülen zarif bir nottur.</p>
                 </div>
               </Motion.div>
